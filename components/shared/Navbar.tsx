@@ -97,7 +97,7 @@ const Navbar = () => {
           </p>
 
           <div className="flex gap-3 items-center justify-center py-3 z-50">
-            <Link href="nkedin.com/in/mili-srivastav/">
+            <Link href="/">
               <Image
                 src="/linkedin.svg"
                 width={500}
@@ -106,7 +106,7 @@ const Navbar = () => {
                 alt="linkedin-image"
               />
             </Link>
-            <Link href="https://www.instagram.com/milii_____/">
+            <Link href="">
               <Image
                 src="/instagram.svg"
                 width={500}
@@ -115,7 +115,7 @@ const Navbar = () => {
                 alt="instagram-image"
               />
             </Link>
-            <Link href="https://github.com/mili-srivastava">
+            <Link href="">
               <Image
                 src="/github.svg"
                 width={500}

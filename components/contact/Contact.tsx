@@ -155,7 +155,7 @@ const Contact = () => {
           </section>
         </div>
         <div className="lg:w-[40%] hidden lg:flex lg:-mt-8 md:-mt-10">
-          <Image src="/images/d3.png" width={500} height={500} alt="mili-image" className=" rounded-xl border-4 " />
+          <Image src="/images/d1.png" width={500} height={500} alt="mili-image" className=" rounded-xl border-4 " />
         </div>
       </div>
       <div className="w-2 h-32 mx-auto -mt-8 border-l-2 border-white"></div>
